@@ -19,6 +19,7 @@
   게시글 제거기능 추가
 
 3.2 클래스 다이어그램
+![image](https://github.com/user-attachments/assets/78d8f9d0-1430-4b79-a7fc-a3b6ec5cdff5)
 
 
 3.3 절차 설명
